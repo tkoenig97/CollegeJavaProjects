@@ -1,0 +1,8 @@
+If number is divisible by 5
+    Output Fizz
+If number is divisible by 3
+    Output Buzz
+If number is divisible by 3 and 5
+    Output FizzBuzz
+If number is not divisible by either
+    Output number to terminal

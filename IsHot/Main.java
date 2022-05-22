@@ -9,8 +9,9 @@ public class Main {
             System.out.println("Drink Water");
         }
         else if (temp>20) 
-            System.out.println("Beautiful day");
+            System.out.println("It is a beautiful day");
         else 
-            System.out.println("Cold Day");
+            System.out.println("It's a cold day");
+            System.out.println("Bring a jacket");
     }
 }
